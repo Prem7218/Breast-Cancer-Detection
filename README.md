@@ -1,4 +1,4 @@
-** Breast Cancer Detection App
+ Breast Cancer Detection App
 🏥 Empowering Health Decisions with AI
 This project is a machine learning-powered application designed to predict the likelihood of breast cancer based on user-provided data. It offers a user-friendly interface for doctors, researchers, and patients, helping them analyze critical health information effectively.
 
