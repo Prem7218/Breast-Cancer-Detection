@@ -54,6 +54,11 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/Breast-Cancer-Detection.git
+
+or
+
+HTTPS: https://github.com/Prem7218/Breast-Cancer-Detection.git
+
 Navigate to the project directory:
 bash
 Copy code
