@@ -107,8 +107,7 @@ Deploy your app and share the public URL.
 
 ## 🔖 Version Information
 Current Version: 1.0.0
-Creation Period: 10 days
-Last Updated: (Replace with actual date)
+Creation Period: 7 days
 
 
 ## 🙏 Acknowledgments
