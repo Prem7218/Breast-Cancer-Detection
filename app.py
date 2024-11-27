@@ -1,4 +1,5 @@
 import streamlit as st
+import scikit-learn
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
