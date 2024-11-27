@@ -56,6 +56,11 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/Breast-Cancer-Detection.git
+
+or
+
+HTTPS: https://github.com/Prem7218/Breast-Cancer-Detection.git
+
 Navigate to the project directory:
 bash
 Copy code
@@ -104,8 +109,7 @@ Deploy your app and share the public URL.
 
 ## 🔖 Version Information
 Current Version: 1.0.0
-Creation Period: 10 days
-Last Updated: (Replace with actual date)
+Creation Period: 7 days
 
 
 ## 🙏 Acknowledgments
@@ -118,4 +122,4 @@ scikit-learn
 
 
 ## ✉️ Contact
-For any questions, suggestions, or contributions, feel free to reach out via email at your-email@example.com or open an issue in the repository.
+For any questions, suggestions, or contributions, feel free to reach out via email at premradheshyammahajan@gmail.com or open an issue in the repository.
